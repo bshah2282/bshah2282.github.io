@@ -1,4 +1,8 @@
 # bshah2282.github.io
-__Name:__ Bilal Shahid
-__Introduction:__ Hello, My name is Bilal and i'm currently a 3rd year IT major.
-__Hobbies:__ Basketball, Volleyball, Reading.
+## About Me
+
+| Category | Information |
+|----------|-------------|
+| **Name** | Bilal Shahid |
+| **Introduction** | Hello, my name is Bilal and I'm currently a 3rd year IT major. |
+| **Hobbies** | Basketball, Volleyball, Reading |
