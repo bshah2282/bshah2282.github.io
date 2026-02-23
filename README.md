@@ -5,4 +5,4 @@
 |----------|-------------|
 | **Name** | Bilal Shahid |
 | **Introduction** | Hello, my name is Bilal and I'm currently a 3rd year IT major. |
-| **Hobbies** | Basketball, Volleyball, Reading |
+| **Hobbies** | Basketball, Volleyball, Reading. |
